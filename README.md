@@ -6,13 +6,15 @@ I'll be tweeting my progress with #100DaysOfBlockchain | #100DaysOfCode hashtag 
 ## Main Goals
 ---
 
-To transition from Fullstack Web Developer into Blockchain Engineer
+To transition from Fullstack Web Developer into Blockchain Engineer.
 
 
-#### Start Date
+## Start Date
+---
 October 24th, 2018.
 
-## Additional Rules
+### Additional Rules
+---
 
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode | #100DaysOfBlockchain
 2. If I code at work, that time won't count towards the challenge.
@@ -20,6 +22,8 @@ October 24th, 2018.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
+## Logs
+---
 
 [Round 1](R1.md)
 
@@ -27,7 +31,7 @@ October 24th, 2018.
 
 [Round 3](R3.md)
 
-## Key Milestone , Technologies and Protocals need to learn/developer
+## Key Milestone, Technologies and Protocals need to learn/develop
 ---
 * [ ] CONCEPTS
     * [ ] Cryptocurrencies and Algorithms
@@ -35,8 +39,10 @@ October 24th, 2018.
     * [ ] Fundamentals of Cryptography
     * [ ] Bitcoin Programming Basics
     * [ ] Solidity Programming
-    * [ ] 
+    * [ ] Exploring other blockchain
+        * [ ] WAVES, NEM, EOS, Stellar, Loom Network, Ripple, Quorum, BigchainDB, Holo
 * [ ] PROJECTS
     * [ ] Create Blockchain from the scratch
     * [ ] Developer Bitcoin Wallet from the Scratch
     * [ ] Develop dApps using Smart Contract with Front-end.
+    * [ ] ....
