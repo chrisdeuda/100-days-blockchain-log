@@ -1,6 +1,10 @@
 # 100DaysOfBlockchain
-The log of my 100 Days Of Code (to keep separate from main repo and let people fork a clean version)
+I have taken the challenge to consistently learn and code with the blockchain development
+
+I'll be tweeting my progress with #100DaysOfBlockchain | #100DaysOfCode hashtag on my twitter account [Chr1sHustler](https://twitter.com/Chr1sHustler).
 
 [Round 1](R1.md)
+
+[Round 2](R2.md)
 
 [Round 3](R3.md)
