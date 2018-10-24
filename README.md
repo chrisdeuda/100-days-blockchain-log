@@ -26,3 +26,17 @@ October 24th, 2018.
 [Round 2](R2.md)
 
 [Round 3](R3.md)
+
+## Key Milestone , Technologies and Protocals need to learn/developer
+---
+* [ ] CONCEPTS
+    * [ ] Cryptocurrencies and Algorithms
+    * [ ] Cryptoeconomics
+    * [ ] Fundamentals of Cryptography
+    * [ ] Bitcoin Programming Basics
+    * [ ] Solidity Programming
+    * [ ] 
+* [ ] PROJECTS
+    * [ ] Create Blockchain from the scratch
+    * [ ] Developer Bitcoin Wallet from the Scratch
+    * [ ] Develop dApps using Smart Contract with Front-end.
