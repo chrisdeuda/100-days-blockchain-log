@@ -40,6 +40,6 @@ October 24th, 2018.
         * [ ] WAVES, NEM, EOS, Stellar, Loom Network, Ripple, Quorum, BigchainDB, Holo
 * [ ] PROJECTS
     * [ ] Create Blockchain from the scratch
-    * [ ] Developer Bitcoin Wallet from the Scratch
+    * [ ] Develop Bitcoin Wallet from the Scratch
     * [ ] Develop dApps using Smart Contract with Front-end.
     * [ ] ....
